@@ -5,7 +5,7 @@
  -->
 i am majid asadollahi 💻 🐍
 
-- 🔭 I’m currently working on coming soon 😄
+- 🔭 I’m currently working on django channels 😄
 - 🌱 I’m currently learning django , django-rest-framework and django channels
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
