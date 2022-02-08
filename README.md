@@ -3,7 +3,7 @@
 
 <!-- **majid-757/majid-757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
-Here are some ideas to get you started:
+i am majid asadollahi 💻 🐍
 
 - 🔭 I’m currently working on coming soon 😄
 - 🌱 I’m currently learning django , django-rest-framework and django channels
