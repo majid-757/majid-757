@@ -5,7 +5,7 @@
  -->
 i am Majid Asadollahi 💻 🐍
 
-Python & Django Developer Interested OpenCV
+Python & Django Developer, Interested OpenCV
 
 - 🔭 I’m currently working on django channels 😄
 - 🌱 I’m currently learning django , django-rest-framework and django channels
