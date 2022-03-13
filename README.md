@@ -3,7 +3,7 @@
 
 <!-- **majid-757/majid-757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
-i am Majid Asadollahi 💻 🐍
+ I am Majid Asadollahi 💻 🐍
 
 Python & Django Developer, Interested OpenCV
 
