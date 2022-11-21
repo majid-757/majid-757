@@ -8,7 +8,7 @@
 Python & Django Developer, Interested OpenCV
 
 - 🔭 I’m currently working on Design Patterns 😄
-- 🌱 I’m currently learning django , django-rest-framework and django channels
+- 🌱 I’m currently learning django , django-rest-framework and django channels , fastapi
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
