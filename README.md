@@ -5,7 +5,7 @@
  -->
  This Is Majid 💻 
 
-FullStack Developer
+Full Stack Developer
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning JavaScript
