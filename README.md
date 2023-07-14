@@ -27,12 +27,12 @@
 </p>
 
 ## My social networks
-<a href="https://instagram.com/weblax_ir">
+<!-- <a href="https://instagram.com/weblax_ir">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/channel/UC9l_5Xfj0KnQda1hkf_nSWQ">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
+</a> -->
 <a href="https://t.me/weblax_ir">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
