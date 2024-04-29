@@ -21,7 +21,7 @@
 <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="csharp" src="https://img.shields.io/badge/logo-csharp-blue%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="csharp" src="https://img.shields.io/badge/logo-csharp-blue%23007ACC.svg?style=for-the-badge&logoColor=white" />
 
 </p>
 
